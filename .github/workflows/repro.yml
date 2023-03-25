@@ -1,4 +1,4 @@
-name: CI
+name: repro
 on:
   workflow_dispatch:
 
